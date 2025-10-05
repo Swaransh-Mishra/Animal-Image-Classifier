@@ -55,20 +55,23 @@ Animal-Image-Classifier/
 - ├── myimage.jpg # background image for my dashboard
 - └── docs/ # Documentation, assets
 
+  ---
+
   ⚙️ Installation & Setup
 
 - Clone the repository and set up the environment:
 
 
 git clone https://github.com/Swaransh-Mishra/Animal_Image_Classifier.git
+
 cd Animal_Image_Classifier
 
 - Create a virtual environment:
 
 python -m venv venv
-# Activate (Windows)
+### Activate (Windows):
 venv\Scripts\activate
-# Activate (Mac/Linux)
+### Activate (Mac/Linux):
 source venv/bin/activate
 
 - Install dependencies:
@@ -82,7 +85,9 @@ The app will open at: http://localhost:8501
 
 Upload an image → the model will predict the animal category
 
-📊 Model Details
+---
+
+##📊 Model Details
 
 - Architecture: MobileNet (Transfer Learning)
 
@@ -109,10 +114,10 @@ Upload an image → the model will predict the animal category
 - Deploy on cloud (AWS/GCP/Azure) for scalability
 
 
-👨‍💻 Author
+##👨‍💻 Author:
 
 Swaransh Mishra
 
-- GitHub: Swaransh-Mishra
+- [My GitHub Profile](https://github.com/Swaransh-Mishra)
 
-- LinkedIn: Swaransh Mishra
+- My LinkedIn: [Swaransh Mishra](https://www.linkedin.com/in/swaransh-mishra-a85123258/)
