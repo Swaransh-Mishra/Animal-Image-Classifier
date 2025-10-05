@@ -113,11 +113,12 @@ Upload an image → the model will predict the animal category
 
 - Deploy on cloud (AWS/GCP/Azure) for scalability
 
+---
 
 ##👨‍💻 Author:
 
 Swaransh Mishra
 
-- [My GitHub Profile](https://github.com/Swaransh-Mishra)
+- My Github  : [Swaransh Mishra](https://github.com/Swaransh-Mishra)
 
 - My LinkedIn: [Swaransh Mishra](https://www.linkedin.com/in/swaransh-mishra-a85123258/)
