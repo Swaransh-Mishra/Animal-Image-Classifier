@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 tensorflow>=2.0.0
 streamlit
 numpy
 pillow
 matplotlib
-=======
-tensorflow>=2.0.0
-streamlit
-numpy
-pillow
-matplotlib
->>>>>>> 362c9a8a873b25371ccbdfce9a37a8c8044dc7da
 pandas
